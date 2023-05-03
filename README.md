@@ -1,5 +1,5 @@
-# Level 0 sheet solutions on codeforce
-## Community Suez Canal University
+# Level 0 : sheet solutions on codeforce
+## Community : Suez Canal University
 - Week #1 [*(Data types - Control Flows)*](https://codeforces.com/group/n3sTiYtHxI/contest/348729)
 - Week #2 [*(Loops)*](https://codeforces.com/group/n3sTiYtHxI/contest/348730)
 - Week #3 [*(Arrays)*](https://codeforces.com/group/n3sTiYtHxI/contest/360152)
